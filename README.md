@@ -5,7 +5,7 @@ Welcome to the documentation for My Ecommerce Android App! You can download the 
 
 The latest version on 02-09-2023 is "Shopify2.0.apk"
 
-[Download " SHOPIFLY App " APK](./shopify2.0.apk)
+[Download " SHOPIFLY App " APK](https://github.com/VishalMaskar/Shopifly/blob/main/Shopify2.0.apk)
 
 ## Installation
 
