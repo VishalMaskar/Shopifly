@@ -1,0 +1,55 @@
+{
+  "project_info": {
+    "project_number": "656437047730",
+    "firebase_url": "https://final-1570d.firebaseio.com",
+    "project_id": "final-1570d",
+    "storage_bucket": "final-1570d.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:656437047730:android:8ab073be932db27a",
+        "android_client_info": {
+          "package_name": "com.vishal.com.shopify"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "656437047730-k6ad5n5fagqfe40ud4815pe15bt1jvs7.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.vishal.com.shopify",
+            "certificate_hash": "4bfac4969539885bd7b80366905f3666381896a6"
+          }
+        },
+        {
+          "client_id": "656437047730-oes5sncjk01bn8is64763s45rigf7fe7.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCLGT_DtoWjtVpJaP2pQyqL3aemqCN7wUk"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 2,
+          "other_platform_oauth_client": [
+            {
+              "client_id": "656437047730-oes5sncjk01bn8is64763s45rigf7fe7.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
